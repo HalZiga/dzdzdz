@@ -1,0 +1,8 @@
+C:\Users\zigan\source\repos\UGA-BUGA\UGA-BUGA\bin\Debug\UGA-BUGA.exe.config
+C:\Users\zigan\source\repos\UGA-BUGA\UGA-BUGA\bin\Debug\UGA-BUGA.exe
+C:\Users\zigan\source\repos\UGA-BUGA\UGA-BUGA\bin\Debug\UGA-BUGA.pdb
+C:\Users\zigan\source\repos\UGA-BUGA\UGA-BUGA\obj\Debug\Tumakov.csproj.AssemblyReference.cache
+C:\Users\zigan\source\repos\UGA-BUGA\UGA-BUGA\obj\Debug\Tumakov.csproj.SuggestedBindingRedirects.cache
+C:\Users\zigan\source\repos\UGA-BUGA\UGA-BUGA\obj\Debug\Tumakov.csproj.CoreCompileInputs.cache
+C:\Users\zigan\source\repos\UGA-BUGA\UGA-BUGA\obj\Debug\UGA-BUGA.exe
+C:\Users\zigan\source\repos\UGA-BUGA\UGA-BUGA\obj\Debug\UGA-BUGA.pdb

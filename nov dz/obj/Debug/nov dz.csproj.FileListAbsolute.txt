@@ -1,0 +1,8 @@
+C:\Users\zigan\source\repos\UGA-BUGA\nov dz\obj\Debug\nov dz.csproj.AssemblyReference.cache
+C:\Users\zigan\source\repos\UGA-BUGA\nov dz\obj\Debug\nov dz.csproj.SuggestedBindingRedirects.cache
+C:\Users\zigan\source\repos\UGA-BUGA\nov dz\obj\Debug\nov dz.csproj.CoreCompileInputs.cache
+C:\Users\zigan\source\repos\UGA-BUGA\nov dz\bin\Debug\nov dz.exe.config
+C:\Users\zigan\source\repos\UGA-BUGA\nov dz\bin\Debug\nov dz.exe
+C:\Users\zigan\source\repos\UGA-BUGA\nov dz\bin\Debug\nov dz.pdb
+C:\Users\zigan\source\repos\UGA-BUGA\nov dz\obj\Debug\nov dz.exe
+C:\Users\zigan\source\repos\UGA-BUGA\nov dz\obj\Debug\nov dz.pdb
